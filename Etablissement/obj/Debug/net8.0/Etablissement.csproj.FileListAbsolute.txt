@@ -1,0 +1,14 @@
+C:\Users\Wallon\source\repos\SIO 1\C#\Etablissement\bin\Debug\net8.0\Etablissement.exe
+C:\Users\Wallon\source\repos\SIO 1\C#\Etablissement\bin\Debug\net8.0\Etablissement.deps.json
+C:\Users\Wallon\source\repos\SIO 1\C#\Etablissement\bin\Debug\net8.0\Etablissement.runtimeconfig.json
+C:\Users\Wallon\source\repos\SIO 1\C#\Etablissement\bin\Debug\net8.0\Etablissement.dll
+C:\Users\Wallon\source\repos\SIO 1\C#\Etablissement\bin\Debug\net8.0\Etablissement.pdb
+C:\Users\Wallon\source\repos\SIO 1\C#\Etablissement\obj\Debug\net8.0\Etablissement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallon\source\repos\SIO 1\C#\Etablissement\obj\Debug\net8.0\Etablissement.AssemblyInfoInputs.cache
+C:\Users\Wallon\source\repos\SIO 1\C#\Etablissement\obj\Debug\net8.0\Etablissement.AssemblyInfo.cs
+C:\Users\Wallon\source\repos\SIO 1\C#\Etablissement\obj\Debug\net8.0\Etablissement.csproj.CoreCompileInputs.cache
+C:\Users\Wallon\source\repos\SIO 1\C#\Etablissement\obj\Debug\net8.0\Etablissement.dll
+C:\Users\Wallon\source\repos\SIO 1\C#\Etablissement\obj\Debug\net8.0\refint\Etablissement.dll
+C:\Users\Wallon\source\repos\SIO 1\C#\Etablissement\obj\Debug\net8.0\Etablissement.pdb
+C:\Users\Wallon\source\repos\SIO 1\C#\Etablissement\obj\Debug\net8.0\Etablissement.genruntimeconfig.cache
+C:\Users\Wallon\source\repos\SIO 1\C#\Etablissement\obj\Debug\net8.0\ref\Etablissement.dll

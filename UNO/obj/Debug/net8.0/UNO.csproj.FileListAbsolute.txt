@@ -1,0 +1,14 @@
+C:\Users\Wallon\source\repos\SIO 1\C#\UNO\bin\Debug\net8.0\UNO.exe
+C:\Users\Wallon\source\repos\SIO 1\C#\UNO\bin\Debug\net8.0\UNO.deps.json
+C:\Users\Wallon\source\repos\SIO 1\C#\UNO\bin\Debug\net8.0\UNO.runtimeconfig.json
+C:\Users\Wallon\source\repos\SIO 1\C#\UNO\bin\Debug\net8.0\UNO.dll
+C:\Users\Wallon\source\repos\SIO 1\C#\UNO\bin\Debug\net8.0\UNO.pdb
+C:\Users\Wallon\source\repos\SIO 1\C#\UNO\obj\Debug\net8.0\UNO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallon\source\repos\SIO 1\C#\UNO\obj\Debug\net8.0\UNO.AssemblyInfoInputs.cache
+C:\Users\Wallon\source\repos\SIO 1\C#\UNO\obj\Debug\net8.0\UNO.AssemblyInfo.cs
+C:\Users\Wallon\source\repos\SIO 1\C#\UNO\obj\Debug\net8.0\UNO.csproj.CoreCompileInputs.cache
+C:\Users\Wallon\source\repos\SIO 1\C#\UNO\obj\Debug\net8.0\UNO.dll
+C:\Users\Wallon\source\repos\SIO 1\C#\UNO\obj\Debug\net8.0\refint\UNO.dll
+C:\Users\Wallon\source\repos\SIO 1\C#\UNO\obj\Debug\net8.0\UNO.pdb
+C:\Users\Wallon\source\repos\SIO 1\C#\UNO\obj\Debug\net8.0\UNO.genruntimeconfig.cache
+C:\Users\Wallon\source\repos\SIO 1\C#\UNO\obj\Debug\net8.0\ref\UNO.dll

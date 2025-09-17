@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\heritage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{015CF398-36A6-4CD6-AEA4-FCE461037599}|heritage.csproj|c:\\users\\wallon\\source\\repos\\sio 1\\c#\\heritage\\trottinette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015CF398-36A6-4CD6-AEA4-FCE461037599}|heritage.csproj|solutionrelative:trottinette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015CF398-36A6-4CD6-AEA4-FCE461037599}|heritage.csproj|c:\\users\\wallon\\source\\repos\\sio 1\\c#\\heritage\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015CF398-36A6-4CD6-AEA4-FCE461037599}|heritage.csproj|solutionrelative:voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015CF398-36A6-4CD6-AEA4-FCE461037599}|heritage.csproj|c:\\users\\wallon\\source\\repos\\sio 1\\c#\\heritage\\v\u00E9hicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015CF398-36A6-4CD6-AEA4-FCE461037599}|heritage.csproj|solutionrelative:v\u00E9hicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015CF398-36A6-4CD6-AEA4-FCE461037599}|heritage.csproj|c:\\users\\wallon\\source\\repos\\sio 1\\c#\\heritage\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015CF398-36A6-4CD6-AEA4-FCE461037599}|heritage.csproj|solutionrelative:camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015CF398-36A6-4CD6-AEA4-FCE461037599}|heritage.csproj|c:\\users\\wallon\\source\\repos\\sio 1\\c#\\heritage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015CF398-36A6-4CD6-AEA4-FCE461037599}|heritage.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015CF398-36A6-4CD6-AEA4-FCE461037599}|heritage.csproj|c:\\users\\wallon\\source\\repos\\sio 1\\c#\\heritage\\borneelectrique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015CF398-36A6-4CD6-AEA4-FCE461037599}|heritage.csproj|solutionrelative:borneelectrique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Trottinette.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\heritage\\Trottinette.cs",
+              "RelativeDocumentMoniker": "Trottinette.cs",
+              "ToolTip": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\heritage\\Trottinette.cs*",
+              "RelativeToolTip": "Trottinette.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wCkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:16:32.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BorneElectrique.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\heritage\\BorneElectrique.cs",
+              "RelativeDocumentMoniker": "BorneElectrique.cs",
+              "ToolTip": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\heritage\\BorneElectrique.cs",
+              "RelativeToolTip": "BorneElectrique.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:13:42.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Voiture.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\heritage\\Voiture.cs",
+              "RelativeDocumentMoniker": "Voiture.cs",
+              "ToolTip": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\heritage\\Voiture.cs",
+              "RelativeToolTip": "Voiture.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:47:27.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "V\u00E9hicule.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\heritage\\V\u00E9hicule.cs",
+              "RelativeDocumentMoniker": "V\u00E9hicule.cs",
+              "ToolTip": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\heritage\\V\u00E9hicule.cs",
+              "RelativeToolTip": "V\u00E9hicule.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAqwBwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:25:11.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\heritage\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\heritage\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:20:13.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\heritage\\Camion.cs",
+              "RelativeDocumentMoniker": "Camion.cs",
+              "ToolTip": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\heritage\\Camion.cs",
+              "RelativeToolTip": "Camion.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:12:24.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\TP2 poo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28E6D20D-49E5-4858-8F4A-83EBD9CF04BA}|TP2 poo.csproj|c:\\users\\wallon\\source\\repos\\sio 1\\c#\\tp2 poo\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E6D20D-49E5-4858-8F4A-83EBD9CF04BA}|TP2 poo.csproj|solutionrelative:joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E6D20D-49E5-4858-8F4A-83EBD9CF04BA}|TP2 poo.csproj|c:\\users\\wallon\\source\\repos\\sio 1\\c#\\tp2 poo\\monstre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E6D20D-49E5-4858-8F4A-83EBD9CF04BA}|TP2 poo.csproj|solutionrelative:monstre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E6D20D-49E5-4858-8F4A-83EBD9CF04BA}|TP2 poo.csproj|c:\\users\\wallon\\source\\repos\\sio 1\\c#\\tp2 poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E6D20D-49E5-4858-8F4A-83EBD9CF04BA}|TP2 poo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E6D20D-49E5-4858-8F4A-83EBD9CF04BA}|TP2 poo.csproj|c:\\users\\wallon\\source\\repos\\sio 1\\c#\\tp2 poo\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E6D20D-49E5-4858-8F4A-83EBD9CF04BA}|TP2 poo.csproj|solutionrelative:jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E6D20D-49E5-4858-8F4A-83EBD9CF04BA}|TP2 poo.csproj|c:\\users\\wallon\\source\\repos\\sio 1\\c#\\tp2 poo\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E6D20D-49E5-4858-8F4A-83EBD9CF04BA}|TP2 poo.csproj|solutionrelative:zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Zone.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\TP2 poo\\Zone.cs",
+              "RelativeDocumentMoniker": "Zone.cs",
+              "ToolTip": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\TP2 poo\\Zone.cs",
+              "RelativeToolTip": "Zone.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:40:59.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jeu.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\TP2 poo\\Jeu.cs",
+              "RelativeDocumentMoniker": "Jeu.cs",
+              "ToolTip": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\TP2 poo\\Jeu.cs",
+              "RelativeToolTip": "Jeu.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwEwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:40:53.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Monstre.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\TP2 poo\\Monstre.cs",
+              "RelativeDocumentMoniker": "Monstre.cs",
+              "ToolTip": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\TP2 poo\\Monstre.cs",
+              "RelativeToolTip": "Monstre.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAArwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:40:49.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Joueur.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\TP2 poo\\Joueur.cs",
+              "RelativeDocumentMoniker": "Joueur.cs",
+              "ToolTip": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\TP2 poo\\Joueur.cs",
+              "RelativeToolTip": "Joueur.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwDkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:40:28.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\TP2 poo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\TP2 poo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:40:00.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
