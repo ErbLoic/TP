@@ -1,0 +1,14 @@
+C:\Users\Wallon\source\repos\SIO 1\C#\PremierPOO\bin\Debug\net8.0\PremierPOO.exe
+C:\Users\Wallon\source\repos\SIO 1\C#\PremierPOO\bin\Debug\net8.0\PremierPOO.deps.json
+C:\Users\Wallon\source\repos\SIO 1\C#\PremierPOO\bin\Debug\net8.0\PremierPOO.runtimeconfig.json
+C:\Users\Wallon\source\repos\SIO 1\C#\PremierPOO\bin\Debug\net8.0\PremierPOO.dll
+C:\Users\Wallon\source\repos\SIO 1\C#\PremierPOO\bin\Debug\net8.0\PremierPOO.pdb
+C:\Users\Wallon\source\repos\SIO 1\C#\PremierPOO\obj\Debug\net8.0\PremierPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallon\source\repos\SIO 1\C#\PremierPOO\obj\Debug\net8.0\PremierPOO.AssemblyInfoInputs.cache
+C:\Users\Wallon\source\repos\SIO 1\C#\PremierPOO\obj\Debug\net8.0\PremierPOO.AssemblyInfo.cs
+C:\Users\Wallon\source\repos\SIO 1\C#\PremierPOO\obj\Debug\net8.0\PremierPOO.csproj.CoreCompileInputs.cache
+C:\Users\Wallon\source\repos\SIO 1\C#\PremierPOO\obj\Debug\net8.0\PremierPOO.dll
+C:\Users\Wallon\source\repos\SIO 1\C#\PremierPOO\obj\Debug\net8.0\refint\PremierPOO.dll
+C:\Users\Wallon\source\repos\SIO 1\C#\PremierPOO\obj\Debug\net8.0\PremierPOO.pdb
+C:\Users\Wallon\source\repos\SIO 1\C#\PremierPOO\obj\Debug\net8.0\PremierPOO.genruntimeconfig.cache
+C:\Users\Wallon\source\repos\SIO 1\C#\PremierPOO\obj\Debug\net8.0\ref\PremierPOO.dll

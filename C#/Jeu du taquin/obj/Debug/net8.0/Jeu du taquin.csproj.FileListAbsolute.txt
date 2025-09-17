@@ -1,0 +1,14 @@
+C:\Users\Wallon\source\repos\SIO 1\C#\Jeu du taquin\obj\Debug\net8.0\Jeu du taquin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallon\source\repos\SIO 1\C#\Jeu du taquin\obj\Debug\net8.0\Jeu du taquin.AssemblyInfoInputs.cache
+C:\Users\Wallon\source\repos\SIO 1\C#\Jeu du taquin\obj\Debug\net8.0\Jeu du taquin.AssemblyInfo.cs
+C:\Users\Wallon\source\repos\SIO 1\C#\Jeu du taquin\obj\Debug\net8.0\Jeu du taquin.csproj.CoreCompileInputs.cache
+C:\Users\Wallon\source\repos\SIO 1\C#\Jeu du taquin\bin\Debug\net8.0\Jeu du taquin.exe
+C:\Users\Wallon\source\repos\SIO 1\C#\Jeu du taquin\bin\Debug\net8.0\Jeu du taquin.deps.json
+C:\Users\Wallon\source\repos\SIO 1\C#\Jeu du taquin\bin\Debug\net8.0\Jeu du taquin.runtimeconfig.json
+C:\Users\Wallon\source\repos\SIO 1\C#\Jeu du taquin\bin\Debug\net8.0\Jeu du taquin.dll
+C:\Users\Wallon\source\repos\SIO 1\C#\Jeu du taquin\bin\Debug\net8.0\Jeu du taquin.pdb
+C:\Users\Wallon\source\repos\SIO 1\C#\Jeu du taquin\obj\Debug\net8.0\Jeu du taquin.dll
+C:\Users\Wallon\source\repos\SIO 1\C#\Jeu du taquin\obj\Debug\net8.0\refint\Jeu du taquin.dll
+C:\Users\Wallon\source\repos\SIO 1\C#\Jeu du taquin\obj\Debug\net8.0\Jeu du taquin.pdb
+C:\Users\Wallon\source\repos\SIO 1\C#\Jeu du taquin\obj\Debug\net8.0\Jeu du taquin.genruntimeconfig.cache
+C:\Users\Wallon\source\repos\SIO 1\C#\Jeu du taquin\obj\Debug\net8.0\ref\Jeu du taquin.dll

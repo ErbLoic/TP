@@ -1,0 +1,14 @@
+C:\Users\Wallon\source\repos\SIO 1\C#\heritage\bin\Debug\net8.0\heritage.exe
+C:\Users\Wallon\source\repos\SIO 1\C#\heritage\bin\Debug\net8.0\heritage.deps.json
+C:\Users\Wallon\source\repos\SIO 1\C#\heritage\bin\Debug\net8.0\heritage.runtimeconfig.json
+C:\Users\Wallon\source\repos\SIO 1\C#\heritage\bin\Debug\net8.0\heritage.dll
+C:\Users\Wallon\source\repos\SIO 1\C#\heritage\bin\Debug\net8.0\heritage.pdb
+C:\Users\Wallon\source\repos\SIO 1\C#\heritage\obj\Debug\net8.0\heritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallon\source\repos\SIO 1\C#\heritage\obj\Debug\net8.0\heritage.AssemblyInfoInputs.cache
+C:\Users\Wallon\source\repos\SIO 1\C#\heritage\obj\Debug\net8.0\heritage.AssemblyInfo.cs
+C:\Users\Wallon\source\repos\SIO 1\C#\heritage\obj\Debug\net8.0\heritage.csproj.CoreCompileInputs.cache
+C:\Users\Wallon\source\repos\SIO 1\C#\heritage\obj\Debug\net8.0\heritage.dll
+C:\Users\Wallon\source\repos\SIO 1\C#\heritage\obj\Debug\net8.0\refint\heritage.dll
+C:\Users\Wallon\source\repos\SIO 1\C#\heritage\obj\Debug\net8.0\heritage.pdb
+C:\Users\Wallon\source\repos\SIO 1\C#\heritage\obj\Debug\net8.0\heritage.genruntimeconfig.cache
+C:\Users\Wallon\source\repos\SIO 1\C#\heritage\obj\Debug\net8.0\ref\heritage.dll
