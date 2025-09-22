@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP_clientpanier", "TP_clientpanier.csproj", "{DAFD96F6-11C8-49A5-BC8A-0990B085509F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAFD96F6-11C8-49A5-BC8A-0990B085509F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFD96F6-11C8-49A5-BC8A-0990B085509F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFD96F6-11C8-49A5-BC8A-0990B085509F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFD96F6-11C8-49A5-BC8A-0990B085509F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
