@@ -90,21 +90,46 @@ namespace TP_clientpanier
             return produit;
         }
 
-        public bool Add_Panier(int id_P,int id_C,int quantite)
+        public string Add_Panier(int id_P,int id_C,int quantite)
         {
-            string requete = @"Insert into Panier Values( @id_P,@id_C,@quantite);";
-            var commande= new MySqlCommand(requete,connexion);
-            commande.Parameters.AddWithValue("@id_P",id_P );
-            commande.Parameters.AddWithValue("@id_C", id_C);
-            commande.Parameters.AddWithValue("@quantite", quantite);
-            int row= commande.ExecuteNonQuery();
-            if (row > 0)
+
+            string marequete = @"SELECT COUNT(*) from Panier where idProduit=@id_P and IdClient=@id_C";
+            var command = new MySqlCommand(marequete,connexion);
+            command.Parameters.AddWithValue("@id_P", id_P);
+            command.Parameters.AddWithValue("@id_C", id_C);
+            int count = Convert.ToInt32(command.ExecuteScalar());
+            if (count > 0)
             {
-                return true;
+                return "Déjà l'article";
             }
             else
             {
-                return false;
+                marequete = @"Select stock from produit where id=@id";
+                command = new MySqlCommand(marequete,connexion);
+                command.Parameters.AddWithValue("@id",id_P);
+                int nbr = Convert.ToInt32(command.ExecuteScalar());
+                if (nbr < quantite)
+                {
+                    return "Pas assez de stock";
+                }
+                else
+                {
+
+                    string requete = @"Insert into Panier Values( @id_P,@id_C,@quantite);";
+                    var commande = new MySqlCommand(requete, connexion);
+                    commande.Parameters.AddWithValue("@id_P", id_P);
+                    commande.Parameters.AddWithValue("@id_C", id_C);
+                    commande.Parameters.AddWithValue("@quantite", quantite);
+                    int row = commande.ExecuteNonQuery();
+                    if (row > 0)
+                    {
+                        return "c bon";
+                    }
+                    else
+                    {
+                        return "Erreur";
+                    }
+                }
             }
         }
     }

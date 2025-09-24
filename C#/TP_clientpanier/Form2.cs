@@ -34,14 +34,14 @@ namespace TP_clientpanier
             string selected = cbProduit.SelectedItem.ToString();
             int split = Convert.ToInt32(selected.Split('-')[0].Trim());
 
-            bool a =bdd.Add_Panier(split, this.id, Convert.ToInt32(textBox1.Text));
-            if (a)
+            string a =bdd.Add_Panier(split, this.id, Convert.ToInt32(textBox1.Text));
+            if (a=="c bon")
             {
                 this.Close();
             }
             else
             {
-                MessageBox.Show("Erreur dans l'insertion");
+                MessageBox.Show(a);
             }
         }
     }

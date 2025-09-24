@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP_clientpanier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d92b14f065310278065a387b98d91b4ccf0bd34")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27fe8d235f6a010eb8d30cb2c6e7a875e3b7602b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP_clientpanier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP_clientpanier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
