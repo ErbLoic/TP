@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wallon\\TP cours\\1ere-annee\\C#\\Etablissement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9408CE2B-02E7-4EA3-92FA-06282CD9E2B2}|Etablissement.csproj|c:\\users\\wallon\\tp cours\\1ere-annee\\c#\\etablissement\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9408CE2B-02E7-4EA3-92FA-06282CD9E2B2}|Etablissement.csproj|solutionrelative:etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9408CE2B-02E7-4EA3-92FA-06282CD9E2B2}|Etablissement.csproj|c:\\users\\wallon\\tp cours\\1ere-annee\\c#\\etablissement\\enseignant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9408CE2B-02E7-4EA3-92FA-06282CD9E2B2}|Etablissement.csproj|solutionrelative:enseignant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9408CE2B-02E7-4EA3-92FA-06282CD9E2B2}|Etablissement.csproj|c:\\users\\wallon\\tp cours\\1ere-annee\\c#\\etablissement\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9408CE2B-02E7-4EA3-92FA-06282CD9E2B2}|Etablissement.csproj|solutionrelative:notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9408CE2B-02E7-4EA3-92FA-06282CD9E2B2}|Etablissement.csproj|c:\\users\\wallon\\tp cours\\1ere-annee\\c#\\etablissement\\matiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9408CE2B-02E7-4EA3-92FA-06282CD9E2B2}|Etablissement.csproj|solutionrelative:matiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9408CE2B-02E7-4EA3-92FA-06282CD9E2B2}|Etablissement.csproj|c:\\users\\wallon\\tp cours\\1ere-annee\\c#\\etablissement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9408CE2B-02E7-4EA3-92FA-06282CD9E2B2}|Etablissement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9408CE2B-02E7-4EA3-92FA-06282CD9E2B2}|Etablissement.csproj|c:\\users\\wallon\\tp cours\\1ere-annee\\c#\\etablissement\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9408CE2B-02E7-4EA3-92FA-06282CD9E2B2}|Etablissement.csproj|solutionrelative:classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9408CE2B-02E7-4EA3-92FA-06282CD9E2B2}|Etablissement.csproj|c:\\users\\wallon\\tp cours\\1ere-annee\\c#\\etablissement\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9408CE2B-02E7-4EA3-92FA-06282CD9E2B2}|Etablissement.csproj|solutionrelative:personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Classe.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\1ere-annee\\C#\\Etablissement\\Classe.cs",
+              "RelativeDocumentMoniker": "Classe.cs",
+              "ToolTip": "C:\\Users\\Wallon\\TP cours\\1ere-annee\\C#\\Etablissement\\Classe.cs",
+              "RelativeToolTip": "Classe.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAowGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:34:49.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\1ere-annee\\C#\\Etablissement\\Personne.cs",
+              "RelativeDocumentMoniker": "Personne.cs",
+              "ToolTip": "C:\\Users\\Wallon\\TP cours\\1ere-annee\\C#\\Etablissement\\Personne.cs",
+              "RelativeToolTip": "Personne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:23:55.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Etudiant.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\1ere-annee\\C#\\Etablissement\\Etudiant.cs",
+              "RelativeDocumentMoniker": "Etudiant.cs",
+              "ToolTip": "C:\\Users\\Wallon\\TP cours\\1ere-annee\\C#\\Etablissement\\Etudiant.cs",
+              "RelativeToolTip": "Etudiant.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wEYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:21:55.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enseignant.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\1ere-annee\\C#\\Etablissement\\Enseignant.cs",
+              "RelativeDocumentMoniker": "Enseignant.cs",
+              "ToolTip": "C:\\Users\\Wallon\\TP cours\\1ere-annee\\C#\\Etablissement\\Enseignant.cs",
+              "RelativeToolTip": "Enseignant.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:17:49.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Notes.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\1ere-annee\\C#\\Etablissement\\Notes.cs",
+              "RelativeDocumentMoniker": "Notes.cs",
+              "ToolTip": "C:\\Users\\Wallon\\TP cours\\1ere-annee\\C#\\Etablissement\\Notes.cs",
+              "RelativeToolTip": "Notes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:13:25.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Matiere.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\1ere-annee\\C#\\Etablissement\\Matiere.cs",
+              "RelativeDocumentMoniker": "Matiere.cs",
+              "ToolTip": "C:\\Users\\Wallon\\TP cours\\1ere-annee\\C#\\Etablissement\\Matiere.cs",
+              "RelativeToolTip": "Matiere.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:10:56.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\1ere-annee\\C#\\Etablissement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Wallon\\TP cours\\1ere-annee\\C#\\Etablissement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:09:34.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
