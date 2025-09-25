@@ -7,20 +7,20 @@ Les projets sont classés par **année**, puis par **langage**, afin de facilite
 
 ## 🗂️ Structure du dépôt
 
-📦 TP-SIO
-├── 📁 1ere-annee
-│   ├── 📁 CSharp
-│   │    
-│   ├── 📁 PHP # ⏳ Bientôt disponible
+📦 TP-SIO  
+├── 📁 1ere-annee  
+│   ├── 📁 CSharp  
+│   │      
+│   ├── 📁 PHP # ⏳ Bientôt disponible  
 │   │              
-│   └── 📁 SQL # ⏳ Bientôt disponible
-│                     
-├── 📁 2eme-annee
-│   ├── 📁 CSharp
+│   └── 📁 SQL # ⏳ Bientôt disponible  
+│                       
+├── 📁 2eme-annee  
+│   ├── 📁 CSharp  
 │   │               
-│   ├── 📁 PHP  # ⏳ Bientôt disponible
+│   ├── 📁 PHP  # ⏳ Bientôt disponible  
 │   │       
-│   └── 📁 SQL  # ⏳ Bientôt disponible
+│   └── 📁 SQL  # ⏳ Bientôt disponible  
 
 
 
