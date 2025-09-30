@@ -18,7 +18,7 @@ Les projets sont classés par **année**, puis par **langage**, afin de facilite
 ├── 📁 2eme-annee  
 │   ├── 📁 CSharp  
 │   │               
-│   ├── 📁 PHP 
+│   ├── 📁 PHP   
 │   │       
 │   └── 📁 SQL  
 
