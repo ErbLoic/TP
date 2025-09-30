@@ -11,16 +11,16 @@ Les projets sont classés par **année**, puis par **langage**, afin de facilite
 ├── 📁 1ere-annee  
 │   ├── 📁 CSharp  
 │   │      
-│   ├── 📁 PHP # ⏳ Bientôt disponible  
+│   ├── 📁 PHP  
 │   │              
-│   └── 📁 SQL # ⏳ Bientôt disponible  
+│   └── 📁 SQL   
 │                       
 ├── 📁 2eme-annee  
 │   ├── 📁 CSharp  
 │   │               
 │   ├── 📁 PHP  # ⏳ Bientôt disponible  
 │   │       
-│   └── 📁 SQL  # ⏳ Bientôt disponible  
+│   └── 📁 SQL  
 
 ---
 
@@ -42,10 +42,11 @@ Les projets sont classés par **année**, puis par **langage**, afin de facilite
 - [Projet Perso - Calculatrice](./1ere-annee/C#/Calculatrice/) – *Calculatrice simple en C#.*
 
 #### 🟠 PHP
-- 📦 TP *(Disponible prochainement)*
+- [TP1 - 1ère Inscription](./1ere-annee/PHP/Inscription/) – *Pour apprendre à faire inscript/connexion en php.*
+- [TP2 - Apprentissage MVC](./1ere-annee/PHP/MVC/) - *Apprendre à faire un modèle vue contrôleur en php.*
 
 #### 🟣 SQL
-- 📦 TP *(Disponible prochainement)*
+- [TP1 - Affichage Bibliothèque](./1ere-annee/SQL/TP_1/) *Affichage de livre sur une page php.*
 
 ---
 
@@ -57,10 +58,10 @@ Les projets sont classés par **année**, puis par **langage**, afin de facilite
 - [TP3 - Course Interface BDD & Test Unitaire](./2eme-annee/CSharp/Aeroport/) – *Gestion de courses avec base de données et tests.*
 
 #### 🟠 PHP
-- 📦 TP *(Disponible prochainement)*
+- [TP1 - Test Scrapping](./2eme-annee/PHP/test_scrap/) – *Permet de découvrir le fonctionnement du scrapping.*
 
 #### 🟣 SQL
-- 📦 TP *(Disponible prochainement)*
+- [TP1 - Procedure Stocké](./2eme-annee/SQL/Procedure_stocké/) – *Mise en place de procédure stocké avec test en PHP.*
 
 ---
 

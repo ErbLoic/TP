@@ -1,0 +1,46 @@
+.titre{
+    text-decoration: underline;
+}
+
+.auteur{
+    font-weight: bold;
+}
+
+td:nth-child(odd){
+    background-color: gray;
+}
+
+
+td:nth-child(even){
+    background-color: darkgray;
+}
+
+table {
+    table-layout: auto;
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 150%;
+}
+
+.numéro{
+    text-align: center;
+}
+
+body{
+    background-color: lightsteelblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color:grey
+}
+
+#barre{
+    background:linear-gradient(to right,violet,mediumturquoise);
+    border-radius: 25%;
+    text-align: center;
+}
+
+.im img{
+    width: 15%;
+}

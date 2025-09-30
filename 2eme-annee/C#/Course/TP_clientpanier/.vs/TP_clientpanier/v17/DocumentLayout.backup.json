@@ -1,41 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Wallon\\TP cours\\C#\\TP_clientpanier\\",
+  "WorkspaceRootPath": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\Course\\TP_clientpanier\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97D653B4-ABA8-4848-AF04-489F12E75904}|..\\test_tpcourse\\test_tpcourse.csproj|c:\\users\\wallon\\tp cours\\c#\\test_tpcourse\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\Course\\TP_clientpanier\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAFD96F6-11C8-49A5-BC8A-0990B085509F}|TP_clientpanier.csproj|c:\\users\\wallon\\tp cours\\c#\\tp_clientpanier\\basededonne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAFD96F6-11C8-49A5-BC8A-0990B085509F}|TP_clientpanier.csproj|solutionrelative:basededonne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\Course\\TP_clientpanier\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAFD96F6-11C8-49A5-BC8A-0990B085509F}|TP_clientpanier.csproj|c:\\users\\wallon\\tp cours\\c#\\tp_clientpanier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAFD96F6-11C8-49A5-BC8A-0990B085509F}|TP_clientpanier.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\Course\\TP_clientpanier\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAFD96F6-11C8-49A5-BC8A-0990B085509F}|TP_clientpanier.csproj|C:\\Users\\Wallon\\TP cours\\C#\\TP_clientpanier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DAFD96F6-11C8-49A5-BC8A-0990B085509F}|TP_clientpanier.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\Course\\TP_clientpanier\\modele\\Panier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:modele\\Panier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAFD96F6-11C8-49A5-BC8A-0990B085509F}|TP_clientpanier.csproj|c:\\users\\wallon\\tp cours\\c#\\tp_clientpanier\\modele\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAFD96F6-11C8-49A5-BC8A-0990B085509F}|TP_clientpanier.csproj|solutionrelative:modele\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\Course\\TP_clientpanier\\modele\\Produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:modele\\Produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAFD96F6-11C8-49A5-BC8A-0990B085509F}|TP_clientpanier.csproj|c:\\users\\wallon\\tp cours\\c#\\tp_clientpanier\\modele\\panier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAFD96F6-11C8-49A5-BC8A-0990B085509F}|TP_clientpanier.csproj|solutionrelative:modele\\panier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\Course\\TP_clientpanier\\modele\\Client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:modele\\Client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAFD96F6-11C8-49A5-BC8A-0990B085509F}|TP_clientpanier.csproj|c:\\users\\wallon\\tp cours\\c#\\tp_clientpanier\\modele\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAFD96F6-11C8-49A5-BC8A-0990B085509F}|TP_clientpanier.csproj|solutionrelative:modele\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\Course\\TP_clientpanier\\Basededonne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Basededonne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAFD96F6-11C8-49A5-BC8A-0990B085509F}|TP_clientpanier.csproj|c:\\users\\wallon\\tp cours\\c#\\tp_clientpanier\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAFD96F6-11C8-49A5-BC8A-0990B085509F}|TP_clientpanier.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAFD96F6-11C8-49A5-BC8A-0990B085509F}|TP_clientpanier.csproj|C:\\Users\\Wallon\\TP cours\\C#\\TP_clientpanier\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DAFD96F6-11C8-49A5-BC8A-0990B085509F}|TP_clientpanier.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\Course\\TP_clientpanier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,117 +59,98 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Test1.cs",
-              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\C#\\test_tpcourse\\Test1.cs",
-              "RelativeDocumentMoniker": "..\\test_tpcourse\\Test1.cs",
-              "ToolTip": "C:\\Users\\Wallon\\TP cours\\C#\\test_tpcourse\\Test1.cs",
-              "RelativeToolTip": "..\\test_tpcourse\\Test1.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAwCoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T13:03:15.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\C#\\TP_clientpanier\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\Course\\TP_clientpanier\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Wallon\\TP cours\\C#\\TP_clientpanier\\Form1.cs",
+              "ToolTip": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\Course\\TP_clientpanier\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T08:51:21.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\C#\\TP_clientpanier\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\Course\\TP_clientpanier\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\Wallon\\TP cours\\C#\\TP_clientpanier\\Form2.cs",
+              "ToolTip": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\Course\\TP_clientpanier\\Form2.cs",
               "RelativeToolTip": "Form2.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCUAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAMwC4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T09:08:22.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Form2.cs [Conception]",
-              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\C#\\TP_clientpanier\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\Course\\TP_clientpanier\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
               "ToolTip": "C:\\Users\\Wallon\\TP cours\\C#\\TP_clientpanier\\Form2.cs [Conception]",
-              "RelativeToolTip": "Form2.cs [Conception]",
+              "RelativeToolTip": "..\\..\\..\\..\\C#\\TP_clientpanier\\Form2.cs [Conception]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T09:06:16.546Z",
-              "EditorCaption": " [Conception]"
+              "WhenOpened": "2025-09-22T09:06:16.546Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Panier.cs",
-              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\C#\\TP_clientpanier\\modele\\Panier.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\Course\\TP_clientpanier\\modele\\Panier.cs",
               "RelativeDocumentMoniker": "modele\\Panier.cs",
-              "ToolTip": "C:\\Users\\Wallon\\TP cours\\C#\\TP_clientpanier\\modele\\Panier.cs",
+              "ToolTip": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\Course\\TP_clientpanier\\modele\\Panier.cs",
               "RelativeToolTip": "modele\\Panier.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T08:30:18.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-22T08:30:18.334Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Produit.cs",
-              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\C#\\TP_clientpanier\\modele\\Produit.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\Course\\TP_clientpanier\\modele\\Produit.cs",
               "RelativeDocumentMoniker": "modele\\Produit.cs",
-              "ToolTip": "C:\\Users\\Wallon\\TP cours\\C#\\TP_clientpanier\\modele\\Produit.cs",
+              "ToolTip": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\Course\\TP_clientpanier\\modele\\Produit.cs",
               "RelativeToolTip": "modele\\Produit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T08:27:13.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-22T08:27:13.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\Course\\TP_clientpanier\\modele\\Client.cs",
+              "RelativeDocumentMoniker": "modele\\Client.cs",
+              "ToolTip": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\Course\\TP_clientpanier\\modele\\Client.cs",
+              "RelativeToolTip": "modele\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T08:23:24.653Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\C#\\TP_clientpanier\\modele\\Client.cs",
-              "RelativeDocumentMoniker": "modele\\Client.cs",
-              "ToolTip": "C:\\Users\\Wallon\\TP cours\\C#\\TP_clientpanier\\modele\\Client.cs",
-              "RelativeToolTip": "modele\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T08:23:24.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Basededonne.cs",
-              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\C#\\TP_clientpanier\\Basededonne.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\Course\\TP_clientpanier\\Basededonne.cs",
               "RelativeDocumentMoniker": "Basededonne.cs",
-              "ToolTip": "C:\\Users\\Wallon\\TP cours\\C#\\TP_clientpanier\\Basededonne.cs",
+              "ToolTip": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\Course\\TP_clientpanier\\Basededonne.cs",
               "RelativeToolTip": "Basededonne.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAuwGYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAnwGYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T08:19:50.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-22T08:19:50.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Conception]",
-              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\C#\\TP_clientpanier\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\Course\\TP_clientpanier\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Wallon\\TP cours\\C#\\TP_clientpanier\\Form1.cs [Conception]",
-              "RelativeToolTip": "Form1.cs [Conception]",
+              "RelativeToolTip": "..\\..\\..\\..\\C#\\TP_clientpanier\\Form1.cs [Conception]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T08:14:44.187Z",
-              "EditorCaption": " [Conception]"
+              "WhenOpened": "2025-09-22T08:14:44.187Z"
             }
           ]
         }
