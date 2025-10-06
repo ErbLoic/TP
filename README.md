@@ -54,8 +54,8 @@ Les projets sont classés par **année**, puis par **langage**, afin de facilite
 
 #### 🟦 C# (CSharp)  
 - [TP1 - Conversion Meteo Class Static & Interface](./2eme-annee/C#/ConversionMeteo/) – *Conversion météo avec classes statiques et interface.*  
-- [TP2 - Aéroport Test Unitaire](./2eme-annee/CSharp/Aeroport/) – *Gestion d’un aéroport avec tests unitaires.*  
-- [TP3 - Course Interface BDD & Test Unitaire](./2eme-annee/CSharp/Aeroport/) – *Gestion de courses avec base de données et tests.*
+- [TP2 - Aéroport Test Unitaire](./2eme-annee/C#/Aeroport/) – *Gestion d’un aéroport avec tests unitaires.*  
+- [TP3 - Course Interface BDD & Test Unitaire](./2eme-annee/C#/Aeroport/) – *Gestion de courses avec base de données et tests.*
 - [TP4 - Utiliser une API](./2eme-annee/C#/PokéAPI/) - *Gestion d'une API en console.*
 - [TP4 Suite - Utiliser une API en graphique](./2eme-annee/C#/FormPokéAPI/) - *Gestion d'une API en formulaire windows.*
 
