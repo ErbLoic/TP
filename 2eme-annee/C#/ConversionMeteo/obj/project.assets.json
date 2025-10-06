@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\ConversionMeteo\\ConversionMeteo.csproj",
+      "projectUniqueName": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\ConversionMeteo\\ConversionMeteo.csproj",
       "projectName": "ConversionMeteo",
-      "projectPath": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\ConversionMeteo\\ConversionMeteo.csproj",
+      "projectPath": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\ConversionMeteo\\ConversionMeteo.csproj",
       "packagesPath": "C:\\Users\\Wallon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\ConversionMeteo\\obj\\",
+      "outputPath": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\ConversionMeteo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

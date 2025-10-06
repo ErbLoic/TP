@@ -1,0 +1,15 @@
+C:\Users\Wallon\TP cours\C#\PokéAPI\bin\Debug\net8.0\PokéAPI.exe
+C:\Users\Wallon\TP cours\C#\PokéAPI\bin\Debug\net8.0\PokéAPI.deps.json
+C:\Users\Wallon\TP cours\C#\PokéAPI\bin\Debug\net8.0\PokéAPI.runtimeconfig.json
+C:\Users\Wallon\TP cours\C#\PokéAPI\bin\Debug\net8.0\PokéAPI.dll
+C:\Users\Wallon\TP cours\C#\PokéAPI\bin\Debug\net8.0\PokéAPI.pdb
+C:\Users\Wallon\TP cours\C#\PokéAPI\obj\Debug\net8.0\PokéAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallon\TP cours\C#\PokéAPI\obj\Debug\net8.0\PokéAPI.AssemblyInfoInputs.cache
+C:\Users\Wallon\TP cours\C#\PokéAPI\obj\Debug\net8.0\PokéAPI.AssemblyInfo.cs
+C:\Users\Wallon\TP cours\C#\PokéAPI\obj\Debug\net8.0\PokéAPI.csproj.CoreCompileInputs.cache
+C:\Users\Wallon\TP cours\C#\PokéAPI\obj\Debug\net8.0\PokéAPI.sourcelink.json
+C:\Users\Wallon\TP cours\C#\PokéAPI\obj\Debug\net8.0\PokéAPI.dll
+C:\Users\Wallon\TP cours\C#\PokéAPI\obj\Debug\net8.0\refint\PokéAPI.dll
+C:\Users\Wallon\TP cours\C#\PokéAPI\obj\Debug\net8.0\PokéAPI.pdb
+C:\Users\Wallon\TP cours\C#\PokéAPI\obj\Debug\net8.0\PokéAPI.genruntimeconfig.cache
+C:\Users\Wallon\TP cours\C#\PokéAPI\obj\Debug\net8.0\ref\PokéAPI.dll

@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\ConversionMeteo\\",
+  "WorkspaceRootPath": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\ConversionMeteo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|c:\\users\\wallon\\source\\repos\\sio 1\\c#\\conversionmeteo\\bulletin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|c:\\users\\wallon\\tp cours\\2eme-annee\\c#\\conversionmeteo\\bulletin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|solutionrelative:bulletin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|c:\\users\\wallon\\source\\repos\\sio 1\\c#\\conversionmeteo\\releve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|c:\\users\\wallon\\tp cours\\2eme-annee\\c#\\conversionmeteo\\releve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|solutionrelative:releve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|c:\\users\\wallon\\source\\repos\\sio 1\\c#\\conversionmeteo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|c:\\users\\wallon\\tp cours\\2eme-annee\\c#\\conversionmeteo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|c:\\users\\wallon\\source\\repos\\sio 1\\c#\\conversionmeteo\\zonegeographique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|c:\\users\\wallon\\tp cours\\2eme-annee\\c#\\conversionmeteo\\zonegeographique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|solutionrelative:zonegeographique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|c:\\users\\wallon\\source\\repos\\sio 1\\c#\\conversionmeteo\\exempleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|c:\\users\\wallon\\tp cours\\2eme-annee\\c#\\conversionmeteo\\exempleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|solutionrelative:exempleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ExempleClass.cs",
-              "DocumentMoniker": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\ConversionMeteo\\ExempleClass.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\ConversionMeteo\\ExempleClass.cs",
               "RelativeDocumentMoniker": "ExempleClass.cs",
-              "ToolTip": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\ConversionMeteo\\ExempleClass.cs",
+              "ToolTip": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\ConversionMeteo\\ExempleClass.cs",
               "RelativeToolTip": "ExempleClass.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,11 +60,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Bulletin.cs",
-              "DocumentMoniker": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\ConversionMeteo\\Bulletin.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\ConversionMeteo\\Bulletin.cs",
               "RelativeDocumentMoniker": "Bulletin.cs",
-              "ToolTip": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\ConversionMeteo\\Bulletin.cs",
+              "ToolTip": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\ConversionMeteo\\Bulletin.cs",
               "RelativeToolTip": "Bulletin.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBoAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T08:52:20.003Z",
               "EditorCaption": ""
@@ -73,9 +73,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Releve.cs",
-              "DocumentMoniker": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\ConversionMeteo\\Releve.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\ConversionMeteo\\Releve.cs",
               "RelativeDocumentMoniker": "Releve.cs",
-              "ToolTip": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\ConversionMeteo\\Releve.cs",
+              "ToolTip": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\ConversionMeteo\\Releve.cs",
               "RelativeToolTip": "Releve.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,9 +85,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\ConversionMeteo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\ConversionMeteo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\ConversionMeteo\\Program.cs",
+              "ToolTip": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\ConversionMeteo\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -97,9 +97,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Zonegeographique.cs",
-              "DocumentMoniker": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\ConversionMeteo\\Zonegeographique.cs",
+              "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\ConversionMeteo\\Zonegeographique.cs",
               "RelativeDocumentMoniker": "Zonegeographique.cs",
-              "ToolTip": "C:\\Users\\Wallon\\source\\repos\\SIO 1\\C#\\ConversionMeteo\\Zonegeographique.cs",
+              "ToolTip": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\ConversionMeteo\\Zonegeographique.cs",
               "RelativeToolTip": "Zonegeographique.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

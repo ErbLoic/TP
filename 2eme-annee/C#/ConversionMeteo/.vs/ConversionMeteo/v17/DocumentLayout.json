@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\ConversionMeteo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|c:\\users\\wallon\\tp cours\\2eme-annee\\c#\\conversionmeteo\\bulletin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|solutionrelative:bulletin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|c:\\users\\wallon\\tp cours\\2eme-annee\\c#\\conversionmeteo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|c:\\users\\wallon\\tp cours\\2eme-annee\\c#\\conversionmeteo\\releve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|solutionrelative:releve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|c:\\users\\wallon\\tp cours\\2eme-annee\\c#\\conversionmeteo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|c:\\users\\wallon\\tp cours\\2eme-annee\\c#\\conversionmeteo\\exempleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|solutionrelative:exempleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|c:\\users\\wallon\\tp cours\\2eme-annee\\c#\\conversionmeteo\\zonegeographique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|solutionrelative:zonegeographique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|c:\\users\\wallon\\tp cours\\2eme-annee\\c#\\conversionmeteo\\exempleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|solutionrelative:exempleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|c:\\users\\wallon\\tp cours\\2eme-annee\\c#\\conversionmeteo\\bulletin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A1B3E4-8979-4FD2-9DBE-9BB2301E4046}|ConversionMeteo.csproj|solutionrelative:bulletin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,25 +46,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ExempleClass.cs",
               "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\ConversionMeteo\\ExempleClass.cs",
               "RelativeDocumentMoniker": "ExempleClass.cs",
               "ToolTip": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\ConversionMeteo\\ExempleClass.cs",
               "RelativeToolTip": "ExempleClass.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T09:25:29.185Z"
+              "WhenOpened": "2025-09-08T09:25:29.185Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Bulletin.cs",
               "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\ConversionMeteo\\Bulletin.cs",
               "RelativeDocumentMoniker": "Bulletin.cs",
               "ToolTip": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\ConversionMeteo\\Bulletin.cs",
               "RelativeToolTip": "Bulletin.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBoAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T08:52:20.003Z",
               "EditorCaption": ""
@@ -79,11 +80,12 @@
               "RelativeToolTip": "Releve.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T08:18:58.252Z"
+              "WhenOpened": "2025-09-08T08:18:58.252Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Wallon\\TP cours\\2eme-annee\\C#\\ConversionMeteo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -91,7 +93,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T08:17:57.543Z"
+              "WhenOpened": "2025-09-08T08:17:57.543Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -103,7 +106,8 @@
               "RelativeToolTip": "Zonegeographique.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T08:45:23.022Z"
+              "WhenOpened": "2025-09-08T08:45:23.022Z",
+              "EditorCaption": ""
             }
           ]
         }
